@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "jquery": "^3.2.1",
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "bower": "^1.7.7"
   }
 }
